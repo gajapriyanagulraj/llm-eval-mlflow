@@ -1,0 +1,10 @@
+[
+  {
+    "run_id": "c45c3563efde4da08d3d247b2cc605ed",
+    "run_name": "llama3-20260529-142153",
+    "model": "llama3",
+    "avg_score": 9.0,
+    "avg_latency": 38.54,
+    "failures": 0.0
+  }
+]

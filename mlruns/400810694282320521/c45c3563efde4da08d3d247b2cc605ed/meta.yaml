@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/400810694282320521/c45c3563efde4da08d3d247b2cc605ed/artifacts
+end_time: 1780044906433
+entry_point_name: ''
+experiment_id: '400810694282320521'
+lifecycle_stage: active
+run_id: c45c3563efde4da08d3d247b2cc605ed
+run_name: llama3-20260529-142153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780044713597
+status: 3
+tags: []
+user_id: gajapriya

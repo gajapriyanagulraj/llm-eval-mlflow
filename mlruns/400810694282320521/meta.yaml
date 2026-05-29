@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/400810694282320521
+creation_time: 1780044713491
+experiment_id: '400810694282320521'
+last_update_time: 1780044713491
+lifecycle_stage: active
+name: llm-evaluation
